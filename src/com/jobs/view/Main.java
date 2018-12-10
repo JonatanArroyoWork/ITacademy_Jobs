@@ -1,12 +1,10 @@
 package com.jobs.view;
 
-import java.util.ArrayList;
 import java.util.List;
 
 import com.jobs.application.DTOStaffMember;
 import com.jobs.application.JobsController;
-import com.jobs.domain.AbsStaffMember;
-import com.jobs.domain.Employee;
+
 
 public class Main {
 

@@ -28,7 +28,7 @@ public class Employee extends AbsStaffMember {
 
 	@Override
 	public double pay(double salaryPerMonth) {
-		// TODO Auto-generated method stub
+		
 		return 0;
 	}
 
